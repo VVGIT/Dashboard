@@ -1,0 +1,19 @@
+{
+  "name": "hc",
+  "description": "",
+  "main": "trend.js",
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "highcharts": "^4.2.5"
+  }
+}
