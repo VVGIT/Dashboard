@@ -13,7 +13,11 @@
     "tests"
   ],
   "dependencies": {
+<<<<<<< HEAD
     "jquery": "^3.1.0",
+=======
+    "jquery": "^2.2.4",
+>>>>>>> 2754e2434b626ae77cf7013bc60c18772be48634
     "highcharts": "^4.2.5"
   }
 }

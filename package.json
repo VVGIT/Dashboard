@@ -6,6 +6,7 @@
   "dependencies": {
     "express": "^4.13.4",
     "highcharts": "^4.2.5",
+<<<<<<< HEAD
     "jquery": "^3.1.0",
     "node-highcharts-exporter": "0.0.6",
     "node-redshift": "0.0.5",
@@ -14,6 +15,14 @@
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-import-css": "^0.1.2",
+=======
+    "jQuery": "^1.7.4",
+    "jquery": "^2.2.4",
+    "node-highcharts-exporter": "0.0.6"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+>>>>>>> 2754e2434b626ae77cf7013bc60c18772be48634
     "gulp-inject": "^4.1.0",
     "gulp-jscs": "^3.0.2",
     "gulp-jshint": "^2.0.1",
@@ -26,6 +35,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node trend.js"
   },
+<<<<<<< HEAD
   "author": "Viswa Vangala",
+=======
+  "author": "",
+>>>>>>> 2754e2434b626ae77cf7013bc60c18772be48634
   "license": "ISC"
 }
