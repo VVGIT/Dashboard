@@ -1,0 +1,7 @@
+{
+    "jscodehints.detectedExclusions": [
+        "D:/MPAC/Train/hc/public/lib/jQuery/src/traversing/../selector.js",
+        "D:/MPAC/Train/hc/public/js/Script1.js",
+        "D:/MPAC/Train/hc/public/js/Script3.js"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "hc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "trend.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "highcharts": "^4.2.5",
+    "jquery": "^3.1.0",
+    "node-highcharts-exporter": "0.0.6",
+    "node-redshift": "0.0.5",
+    "require.js": "^1.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-import-css": "^0.1.2",
+    "gulp-inject": "^4.1.0",
+    "gulp-jscs": "^3.0.2",
+    "gulp-jshint": "^2.0.1",
+    "gulp-nodemon": "^2.0.7",
+    "jshint": "^2.9.2",
+    "jshint-stylish": "^2.2.0",
+    "wiredep": "^4.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node trend.js"
+  },
+  "author": "Viswa Vangala",
+  "license": "ISC"
+}
